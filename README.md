@@ -1,5 +1,9 @@
 # furniture_app
 
+Flutter version 3.0.4
+Used provider for storing and state management
+  
+
 A new Flutter project.
 
 ## Getting Started
